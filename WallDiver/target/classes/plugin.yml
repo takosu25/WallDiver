@@ -1,0 +1,8 @@
+name: WallDiverPlugin
+version: 0.0.1
+main: wd.Main
+commands:
+  wd:
+    description: Command no setumei
+    usage: /<command>
+    default: true
